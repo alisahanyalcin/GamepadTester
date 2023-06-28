@@ -9,7 +9,7 @@ https://github.com/alisahanyalcin/GamepadTester/assets/34830846/e0fd18e1-907b-44
 
 
 ## Installation
-1. Download the latest unitypackage from the [releases page](https://github.com/alisahanyalcin/GamepadTester/releases) page.
+1. Download the latest unitypackage from the [releases page](https://github.com/alisahanyalcin/GamepadTester/releases).
 2. Import the unitypackage into your project.
 3. Done!
 
